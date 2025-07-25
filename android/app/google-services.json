@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "343645304952",
+    "project_id": "kanker-5c416",
+    "storage_bucket": "kanker-5c416.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343645304952:android:eee3e77ddc1b431c38958d",
+        "android_client_info": {
+          "package_name": "com.kanker.kanker_payudara"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "343645304952-eitv56ilddlmotcli22nhl2nbg0og2b2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMIT8TZhAOi-Wo6TVNWC7wh2kdDjNJDGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "343645304952-eitv56ilddlmotcli22nhl2nbg0og2b2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
